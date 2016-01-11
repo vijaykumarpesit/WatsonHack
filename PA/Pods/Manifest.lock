@@ -3,15 +3,21 @@ PODS:
   - IMFCore (1.0.11)
   - IMFPush (1.0.0):
     - IMFCore (~> 1.0.0)
+  - JSQMessagesViewController (7.2.0):
+    - JSQSystemSoundPlayer (~> 2.0.1)
+  - JSQSystemSoundPlayer (2.0.1)
 
 DEPENDENCIES:
   - Charts
   - IMFCore
   - IMFPush
+  - JSQMessagesViewController
 
 SPEC CHECKSUMS:
   Charts: 5e1e5ac23898e5b09d226a2fc3e9d86bc281937e
   IMFCore: 6a28c4a777819b9f957bf8c2644e3ebf72f2ccb6
   IMFPush: 40412a5cc2b4cd9e6db9034d58d0eaa16f0d0f58
+  JSQMessagesViewController: 73cab48aa92fc2d512f3b6724f3425cc47a19eb5
+  JSQSystemSoundPlayer: c5850e77a4363ffd374cd851154b9af93264ed8d
 
 COCOAPODS: 0.39.0
